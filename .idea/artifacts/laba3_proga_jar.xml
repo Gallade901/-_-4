@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="laba3_proga:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/laba3_proga_jar</output-path>
+    <root id="root" />
+  </artifact>
+</component>
